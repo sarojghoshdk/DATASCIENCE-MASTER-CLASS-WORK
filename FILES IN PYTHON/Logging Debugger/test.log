@@ -1,0 +1,55 @@
+INFO:root:log this line for excution
+INFO:root:this is my print
+WARNING:root:this is my warning
+ERROR:root:this is my error
+CRITICAL:root:this is my critical mgs
+ERROR:Comm:No such comm target registered: jupyter.widget.control
+WARNING:Comm:No such comm: cb8869fd-2735-4fa0-a33f-9e06ac9a0e2b
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:log this line for excution
+INFO:root:this is my print
+WARNING:root:this is my warning
+ERROR:root:this is my error
+CRITICAL:root:this is my critical mgs
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:log this line for excution
+INFO:root:this is my print
+WARNING:root:this is my warning
+ERROR:root:this is my error
+CRITICAL:root:this is my critical mgs
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:log this line for excution
+INFO:root:this is my print
+WARNING:root:this is my warning
+ERROR:root:this is my error
+CRITICAL:root:this is my critical mgs
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
+INFO:root:this is my info loggingb
+ERROR:root:this is my error
+CRITICAL:root:this is my critical
